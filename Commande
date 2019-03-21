@@ -1,13 +1,13 @@
 Exercice 1 
 1.Openssl genrsa -out keypairB.pem 1024
  
-Capture du fichier générer 
+Capture de fichier générer 
  
 2. OpenSSL rsa -in keypairB.pem -text –noout
  
  
 
-3.
+3.question 3 n'existe pas 
 
 
 
